@@ -1,0 +1,3 @@
+[submodule "gs-feature"]
+	path = gs-feature
+	url = https://github.com/ksdc-grantw/gs-feature
